@@ -1,6 +1,6 @@
 # Local LLM - Llama 3.2
 
-This repository contains the setup and code to run a local instance of the Llama 3.2 Large Language Model (LLM). Follow the steps below to set up and start the application.
+This repository contains the setup and code to run a local instance of the Llama 3.2 Large Language Model (LLM) or any open source model of your choice. Follow the steps below to set up and start the application.
 
 ---
 
