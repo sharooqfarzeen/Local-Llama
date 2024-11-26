@@ -22,6 +22,7 @@ The model files for Llama 3.2 can be downloaded by following the instructions in
 Open the file `get_response.py` in your text editor, and update the `MODEL_NAME` variable to match the model you want to run. For example:
 ```python
 MODEL_NAME = "llama3.2:1b"
+```
 
 
 ### 4. Run the Application in terminal
