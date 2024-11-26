@@ -13,7 +13,7 @@ Click [here to download Ollama](https://ollama.com/download).
 ---
 
 ### 2. Download Model Files
-The model files for Llama 3.2 can be downloaded from the following link:  
+The model files for Llama 3.2 can be downloaded by following the instructions in the following link:  
 [Download model files](https://github.com/ollama/ollama/blob/main/README.md)
 
 ---
