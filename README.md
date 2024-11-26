@@ -18,12 +18,20 @@ The model files for Llama 3.2 can be downloaded by following the instructions in
 
 ---
 
-### 3. Update the Model Name
+---
+
+### 3. Install requirements
+
+```pip install -r requirements.txt```
+
+---
+
+### 4. Update the Model Name
 Open the file `get_response.py` in your text editor, and update the `MODEL_NAME` variable to match the model you want to run. For example:
 ```python
 MODEL_NAME = "llama3.2:1b"
 ```
 
 
-### 4. Run the Application in terminal
+### 5. Run the Application in terminal
 ```streamlit run app.py```
